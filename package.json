@@ -1,5 +1,5 @@
 {
-  "name": "eslint-react",
+  "name": "@kabalpt/eslint-react",
   "version": "1.0.0",
   "description": "Flavored eslint config for React projects",
   "main": "index.js",
