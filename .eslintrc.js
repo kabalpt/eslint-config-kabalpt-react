@@ -1,3 +1,3 @@
 module.exports = {
-  extends: './src'
+  extends: './src/index.js'
 }

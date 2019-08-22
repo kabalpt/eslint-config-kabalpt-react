@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-kabalpt-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Flavored eslint config for React projects",
   "main": "src",
   "repository": "git@github.com:kabalpt/eslint-react.git",
@@ -9,6 +9,7 @@
   "dependencies": {
     "babel-eslint": "^10.0.2",
     "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-mocha": "^6.0.0",
     "eslint-plugin-prettier": "^3.1.0",
     "eslint-plugin-react": "^7.14.3",
