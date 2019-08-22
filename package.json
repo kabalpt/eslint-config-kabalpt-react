@@ -2,7 +2,7 @@
   "name": "@kabalpt/eslint-react",
   "version": "1.0.0",
   "description": "Flavored eslint config for React projects",
-  "main": "index.js",
+  "main": "src",
   "repository": "git@github.com:kabalpt/eslint-react.git",
   "author": "kabalpt",
   "license": "MIT",
