@@ -1,5 +1,5 @@
 /**
- * Shared `kabalpt/eslint-react` configuration preset.
+ * Shared `kabalpt-eslint-react` configuration preset.
  */
 const baseRules = require('./baseRules');
 const reactRules = require('./reactRules');
@@ -35,7 +35,7 @@ module.exports = {
     'sort-class-members'
   ],
   root: true,
-  rules,
+  rules: rules,
   settings: {
     react: {
       pragma: 'React',

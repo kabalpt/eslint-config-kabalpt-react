@@ -13,5 +13,5 @@ $ yarn add -D eslint @kabalpt/eslint-react
 Create an `.eslintrc.yml` file like:
 
 ```yaml
-extends: kabalpt/eslint-react
+extends: kabalpt-eslint-react
 ```
