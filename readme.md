@@ -1,11 +1,11 @@
-# eslint-react
+# eslint-config-kabalpt-react
 
 Flavored React ESLint config
 
 ## Installation
 
 ```sh
-$ yarn add -D eslint @kabalpt/eslint-react
+$ yarn add -D eslint eslint-config-kabalpt-react
 ```
 
 ## Usage
@@ -13,5 +13,5 @@ $ yarn add -D eslint @kabalpt/eslint-react
 Create an `.eslintrc.yml` file like:
 
 ```yaml
-extends: kabalpt-eslint-react
+extends: kabalpt-react
 ```

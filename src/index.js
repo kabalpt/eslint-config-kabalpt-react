@@ -1,5 +1,5 @@
 /**
- * Shared `kabalpt-eslint-react` configuration preset.
+ * Shared `kabalpt-react` configuration preset.
  */
 const baseRules = require('./baseRules');
 const reactRules = require('./reactRules');
